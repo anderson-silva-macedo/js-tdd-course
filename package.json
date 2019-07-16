@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/anderson-silva-macedo/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/anderson-silva-macedo/js-tdd-course#readme"
+  "homepage": "https://github.com/anderson-silva-macedo/js-tdd-course#readme",
+  "dependencies": {
+    "eslint": "^6.0.1"
+  }
 }
